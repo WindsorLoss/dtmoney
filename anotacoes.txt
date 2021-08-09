@@ -1,0 +1,9 @@
+https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=35212%3A460
+Onde pegar os assets do projeto
+
+Observações sobre este projeto:
+    - Nele, foram utilizadas as libs: Axios, MirageJS, Styled Components (junto com a Polished para resolver alguns problemas de cores), Modal
+
+    - Até o momento (07/07/21 14:55), utilizamos a alteração de estados através de um elemento maior (é o caso do App.tsx, que usa seus filhos para alterarem o seu estado)
+    
+    - Utilizamos a INTL (lib nativa) para realizar conversões de valores de moeda e de data
